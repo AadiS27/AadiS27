@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadis27" alt="aadis27" /></a> </p>
 
-- 🔭 I’m currently working on [Token](https://github.com/AadiS27/Token.git)
+- 🔭 I’m currently working on [SpreadHub](https://github.com/AadiS27/SpreadHub)
 
-- 🌱 I’m currently learning **Blockchain,Solana**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **react,nextjs,Typescript**
 
