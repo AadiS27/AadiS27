@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadis27" alt="aadis27" /></a> </p>
 
-- 🔭 I’m currently working on [SpreadHub](https://github.com/AadiS27/SpreadHub)
+- 🔭 I’m currently working on [Interpreter]([https://github.com/AadiS27/SpreadHub](https://github.com/AadiS27/Interpreter))
 
 - 🌱 I’m currently learning **Rust**
 
